@@ -1,0 +1,133 @@
+Input C++
+----------------------------------------
+y
+10
+a06 Hoodie 20000 10 Jaket Wol Biru Anjing L DoggyStyle
+a07 Jacket 25000 8 Jaket Kulit Hitam Anjing XL Pawsome
+a08 Sweatshirt 18000 7 Pakaian Rajut Abu-abu Kucing L MeowFashion
+a09 Vest 15000 5 Bodywear Sutra Merah Anjing M FurryVest
+a10 Raincoat 22000 3 JasHujan PVC Kuning Anjing S RainyDays
+a11 T-Shirt 9000 12 Kaos Katun Hijau Kucing S GreenStyle
+a12 Dress 30000 6 Pakaian Sifon Pink Kucing M PrettyCat
+a13 Coat 35000 4 Jaket Wol Cokelat Anjing L CozyPaws
+a14 Pajamas 12000 9 Pakaian Katun Biru Kucing L SleepyCat
+a15 Scarf 8000 15 Aksesoris Wol Merah Anjing M WarmPaws
+
+Input java
+----------------------------------------
+10
+a06 Hoodie 20000 10 Jaket Wol Biru Anjing L DoggyStyle
+a07 Jacket 25000 8 Jaket Kulit Hitam Anjing XL Pawsome
+a08 Sweatshirt 18000 7 Pakaian Rajut Abu-abu Kucing L MeowFashion
+a09 Vest 15000 5 Bodywear Sutra Merah Anjing M FurryVest
+a10 Raincoat 22000 3 JasHujan PVC Kuning Anjing S RainyDays
+a11 T-Shirt 9000 12 Kaos Katun Hijau Kucing S GreenStyle
+a12 Dress 30000 6 Pakaian Sifon Pink Kucing M PrettyCat
+a13 Coat 35000 4 Jaket Wol Cokelat Anjing L CozyPaws
+a14 Pajamas 12000 9 Pakaian Katun Biru Kucing L SleepyCat
+a15 Scarf 8000 15 Aksesoris Wol Merah Anjing M WarmPaws
+
+Input python
+----------------------------------------
+y
+10
+a06
+Hoodie
+20000
+10
+Jaket
+Wol
+Biru
+Anjing
+L
+DoggyStyle
+a07
+Jacket
+25000
+8
+Jaket 
+Kulit
+Hitam
+Anjing
+XL
+Pawsome
+a08
+Sweatshirt
+18000
+7
+Pakaian
+Rajut
+Abu-abu
+Kucing
+L
+MeowFashion
+a09
+Vest
+15000
+5
+Bodywear
+Sutra
+Merah
+Anjing
+M
+FurryVest
+a10
+Raincoat
+22000
+3
+JasHujan
+PVC
+Kuning
+Anjing
+S
+RainyDays
+a11
+T-Shirt
+9000
+12
+Kaos
+Katun
+Hijau
+Kucing
+S
+GreenStyle
+a12
+Dress
+30000
+6
+Pakaian
+Sifon
+Pink
+Kucing
+M
+PrettyCat
+a13
+Coat
+35000
+4
+Jaket
+Wol
+Cokelat 
+Anjing
+L
+CozyPaws
+a14
+Pajamas
+12000
+9
+Pakaian
+Katun
+Biru
+Kucing
+L
+SleepyCat
+a15
+Scarf
+8000
+15
+Aksesoris
+Wol
+Merah
+Anjing
+M
+WarmPaws
