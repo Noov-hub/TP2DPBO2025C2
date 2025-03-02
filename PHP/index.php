@@ -36,9 +36,9 @@ if (!isset($_SESSION['daftar_baju'])) {
 }
 
 // Debugging: Tampilkan isi session
-echo "<pre>";
-print_r($_SESSION['daftar_baju']);
-echo "</pre>";
+// echo "<pre>";
+// print_r($_SESSION['daftar_baju']);
+// echo "</pre>";
 
 // Proses tambah data jika form dikirim
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
