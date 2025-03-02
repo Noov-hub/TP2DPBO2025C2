@@ -2,7 +2,7 @@ Input C++
 ----------------------------------------
 y
 10
-a06 Hoodie 20000 10 Jaket Wol Biru Anjing L DoggyStyle
+a06 Hoodie 20000 10 Jaket Wol Biru Anjing L DogHaveStyle
 a07 Jacket 25000 8 Jaket Kulit Hitam Anjing XL Pawsome
 a08 Sweatshirt 18000 7 Pakaian Rajut Abu-abu Kucing L MeowFashion
 a09 Vest 15000 5 Bodywear Sutra Merah Anjing M FurryVest
@@ -16,7 +16,7 @@ a15 Scarf 8000 15 Aksesoris Wol Merah Anjing M WarmPaws
 Input java
 ----------------------------------------
 10
-a06 Hoodie 20000 10 Jaket Wol Biru Anjing L DoggyStyle
+a06 Hoodie 20000 10 Jaket Wol Biru Anjing L DogHaveStyle
 a07 Jacket 25000 8 Jaket Kulit Hitam Anjing XL Pawsome
 a08 Sweatshirt 18000 7 Pakaian Rajut Abu-abu Kucing L MeowFashion
 a09 Vest 15000 5 Bodywear Sutra Merah Anjing M FurryVest
@@ -40,7 +40,7 @@ Wol
 Biru
 Anjing
 L
-DoggyStyle
+DogHaveStyle
 a07
 Jacket
 25000
