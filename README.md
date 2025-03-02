@@ -38,7 +38,7 @@ Saya Ibnu Fadhilah dengan NIM 2300613 mengerjakan Tugas Praktikum 2 dalam mata k
 - Setter dan getter untuk masing-masing atribut.
 - `setAll()` : Mengatur semua atribut sekaligus.
 
-## Alur Program (Umum untuk C++, Java, PHP, dan Python)
+## Alur Program ( C++, Java, PHP, dan Python)
 1. Program menyimpan data awal tentang pakaian hewan peliharaan menggunakan objek `Baju`.
 2. Data awal tersebut disimpan dalam sebuah struktur data yang sesuai, seperti `vector` (C++), `ArrayList` (Java), `array` (PHP), atau `list` (Python).
 3. Program menampilkan data pakaian dalam bentuk tabel dengan format yang rapi.
