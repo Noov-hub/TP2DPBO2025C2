@@ -2,9 +2,9 @@
 # JANJI
 Saya Ibnu Fadhilah dengan NIM 2300613 mengerjakan Tugas Praktikum 2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
-# Desain
+# Desain diagram dan OOP
+![image](https://github.com/user-attachments/assets/dd64dc11-d8cf-47f1-81c4-d0ed060cbdce)
 
-![image](https://github.com/user-attachments/assets/103c69f2-b40e-4d9d-9971-d59930a7cf71)
 
 
 ## Struktur Kelas
@@ -15,6 +15,7 @@ Saya Ibnu Fadhilah dengan NIM 2300613 mengerjakan Tugas Praktikum 2 dalam mata k
 - `nama_produk` : Nama produk
 - `harga_produk` : Harga produk
 - `stok_produk` : Jumlah stok produk
+- `foto_produk` : nama foto produk (khusus PHP)
 
 **Metode:**
 - Setter dan getter untuk masing-masing atribut.
